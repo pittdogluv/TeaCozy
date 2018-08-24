@@ -86,3 +86,11 @@ nav span {
   font-weight: bold;
   text-align: center;
 }
+
+.main-content .items {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* Location Section */
